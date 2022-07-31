@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListaFake</string>
+    <string name="label_title">Título</string>
+    <string name="label_desciption">Descrição</string>
+    <string name="label_image">Imagem</string>
+    <string name="label_launch_date">Data Lançamento</string>
+</resources>
